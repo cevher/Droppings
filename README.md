@@ -1,1 +1,1 @@
-# Droppings
+This repo contains the original dataset of cattle droppings collected from 3 different private farms in Nigde. The purpose of the study is to count the undigested grains found in the cattle dropping. The high number indicates inefficient use of high priced feeding stuff or a digestion problem of cattle. 
