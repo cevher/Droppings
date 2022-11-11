@@ -3,11 +3,11 @@ This repo contains the original dataset of cattle droppings collected from 3 dif
 The source code and data are readily available in the repo. 
 
 Two different Neural Network Architectures are used. All codes are written in Pytorch. And some repos and studies of other researchers are benefitted during coding process. Those can be seen in the following links.
-1- https://github.com/WeidiXie/cell_counting_v2
-2- https://www.robots.ox.ac.uk/~vgg/research/counting/index_org.html
-3- https://neurosys.com/blog/objects-counting-by-estimating-a-density-map
-4- https://personal.ie.cuhk.edu.hk/~ccloy/downloads_mall_dataset.html
-5- http://www.svcl.ucsd.edu/projects/peoplecnt/
+\n1- https://github.com/WeidiXie/cell_counting_v2
+\n2- https://www.robots.ox.ac.uk/~vgg/research/counting/index_org.html
+\n3- https://neurosys.com/blog/objects-counting-by-estimating-a-density-map
+\n4- https://personal.ie.cuhk.edu.hk/~ccloy/downloads_mall_dataset.html
+\n5- http://www.svcl.ucsd.edu/projects/peoplecnt/
 
 Anyone who wants to use this repo should follow these steps. 
 1- dowload repo content
